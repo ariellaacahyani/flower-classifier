@@ -1,0 +1,5 @@
+fastai==2.8.4
+torch==2.8.0
+torchvision
+gradio
+scikit-image
