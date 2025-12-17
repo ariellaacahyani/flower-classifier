@@ -5,7 +5,7 @@ This repository contains the code for a deep learning model that classifies imag
 ## 🚀 Live Demo
 
 A live, interactive demo of this model is deployed on Hugging Face Spaces.
-**[TRY THE LIVE DEMO HERE](httpss://huggingface.co/spaces/riells/fastai_flower_classifier)**
+**[TRY THE LIVE DEMO HERE](https://huggingface.co/spaces/riells/fastai_flower_classifier)**
 
 ---
 
@@ -25,3 +25,4 @@ This project demonstrates an end-to-end computer vision workflow. The model was 
 
 ### Note on Model File
 The trained model file (`model.pth` or `.pkl`) is **not** included in this repository due to its large size. It is managed using **Git LFS** and is part of the Hugging Face Spaces deployment. To generate the model, you must run the `flower_classifier.ipynb` notebook.
+
